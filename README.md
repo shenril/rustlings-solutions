@@ -12,12 +12,13 @@ Alternatively, for a first-time Rust learner, there's several other resources:
 ## Notice
 
 **This is my own solutions to the rustlings exercises.**
+
 **PLEASE DO NOT CHEAT YOURSELF OUT OF THESE EXERCISES.**
 
 I highly recommend to read the Rust book first on search A LOT before looking at my solutions. 
 The main purpose is to learn, not to copy/paste my version of it. 
 
-**This repo is to be used only for LAST RESORT !!! **
+**This repo is to be used only for LAST RESORT !!!**
 
 
 If you notice errors please let me know, rustlings watch was all-green at the time I pushed this repo.
